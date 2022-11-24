@@ -2,6 +2,11 @@
 
 <h3 align="center">I'm Elijah Macharia <i>alias MachariaMwangi</i></h2>
 
+### Stats :chart_with_upwards_trend:
+
+[![Elijah Macharia's github stats](https://github-readme-stats.vercel.app/api?username=machariamwangi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machariamwangi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <a href="https://elijahmacharia.netlify.app">Web profile</a> •
   <a href="https://drive.google.com/file/d/1e9RnjnTKeM3EOG6rrfXv2rCcabenQFFE/view">CV/ Resume</a> •
