@@ -15,8 +15,8 @@
 <br>
 
 - 🇰🇪 Kenyan (by birth) & 🌍 identify as a global citizen!
-- 📫 Want to reach me? [Contact](https://elijahmacharia.netlify.app/#/contact)
-- [More about me](https://elijahmacharia.netlify.app)
+- 📫 Want to reach me? [Contact](https://elijahmwangi.net/contact)
+- [More about me](https://elijahmwangi.net)
 
 ## My journey
 
