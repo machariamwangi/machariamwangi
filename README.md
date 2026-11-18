@@ -1,6 +1,6 @@
 # 🖐  Hello World
 
-<h3 align="center">I'm Elijah Macharia <i>alias MachariaMwangi</i></h2>
+<h3 align="center">I'm Elijah Mwangi <i>alias MachariaMwangi</i></h2>
 
 ### Stats :chart_with_upwards_trend:
 
