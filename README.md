@@ -8,8 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machariamwangi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <a href="https://elijahmacharia.netlify.app">Web profile</a> •
-  <a href="https://drive.google.com/file/d/1e9RnjnTKeM3EOG6rrfXv2rCcabenQFFE/view">CV/ Resume</a> •
+  <a href="https://elijahmwangi.net">Web profile</a> •
+  <a href="https://drive.google.com/file/d/1LJNm0g_OHpMzsRpKU9DPWko7u7c5uzny/view">CV/ Resume</a> •
 </p>
 
 <br>
